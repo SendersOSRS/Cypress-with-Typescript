@@ -1,0 +1,33 @@
+[{
+        "name": "Printed Dress",
+        "price": "$26.00",
+        "intPrice": 26.00,
+        "locator": "[data-id-product='3']"
+        
+    },
+    {
+        "name": "Printed Dress",
+        "price": "$50.99",
+        "intPrice": 50.99,
+        "locator": "[data-id-product='4']"
+        
+    },
+    {
+        "name": "Printed Summer Dress",
+        "price": "$28.98",
+        "intPrice": 28.98,
+        "locator": "[data-id-product='5']"
+    },
+    {
+        "name": "Printed Summer Dress",
+        "price": "$30.50",
+        "intPrice": 30.50,
+        "locator": "[data-id-product='6']"
+    },
+    {
+        "name": "Printed Chiffon Dress",
+        "price": "$16.40",
+        "intPrice": 16.40,
+        "locator": "[data-id-product='7']"
+    }
+]

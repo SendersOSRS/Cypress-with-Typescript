@@ -1,0 +1,35 @@
+[
+{
+    "first_name": "Koray",
+    "last_name": "Polat",
+    "password":"heavyCarry",
+    "address": "5 trendlewood",
+    "city": "Dover",
+    "state": "Delaware",
+    "zip_code": "19701",
+    "mobile_phone": "07904813127",
+    "alias": "6 Trendlewood"
+},
+{
+  "first_name": "Prinston",
+  "last_name": "Millrose",
+  "password":"State222",
+  "address": "62 sunrise hill",
+  "city": "Palmer",
+  "state": "Alaska",
+  "zip_code": "19702",
+  "mobile_phone": "07556735747",
+  "alias": "73 Drench-wood grove"
+},
+{
+  "first_name": "Leonardo",
+  "last_name": "Dognes",
+  "password":"Kingston2s",
+  "address": "777 primrose drive",
+  "city": "Miami",
+  "state": "Florida",
+  "zip_code": "12205",
+  "mobile_phone": "305-509-6995",
+  "alias": "2032 Redwood cuts"
+}
+]
